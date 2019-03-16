@@ -1,0 +1,1 @@
+JavaFx project with a GUI that inserts smiley faces everywhere the user clicked the window.
